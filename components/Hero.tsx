@@ -44,20 +44,20 @@ export default function CaptionCarousel() {
   // This can be static or loaded from a server
   const cards = [
     {
-      title: '3BR',
+      title: '3 Bedroom Apartment',
       text: "Bamburi",
       image:
          '1/1.jpg'
         
     },
     {
-      title: '3BR',
+      title: '3 Bedroom Apartment',
       text: "Bamburi",
       image:
         '2/1.jpg',
     },
     {
-      title: '3BR',
+      title: '3 Bedroom Apartment',
       text: "Bamburi",
       image:
         '3/1.jpg',

@@ -354,19 +354,19 @@ const NAV_ITEMS: Array<NavItem> = [
     children: [
       {
         label:'Bamburi',
-        href: `/tours`,
+        href: `/items`,
       },
       {
         label: 'Nyali',
-        href: `/safaris`,
+        href: `/category/nyali`,
       },
       {
         label: 'Town',
-        href: `/gems`,
+        href: `/category/town`,
       },
       {
         label: 'Diani',
-        href: '/itenaries',
+        href: '/category/diani',
       },
       
    

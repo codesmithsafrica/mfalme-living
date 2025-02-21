@@ -51,8 +51,8 @@ export default function Home() {
         color={useColorModeValue('gray.600', 'white')}
       >
         <Text ml={2} mb={2} fontSize="sm">
-{'all'}
-          {/* <b>{params?.slug}</b> */}
+{'all spots in'}
+          <b>{params?.slug}</b>
         </Text>
       </Flex>
 
