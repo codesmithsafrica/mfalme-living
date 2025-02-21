@@ -20,7 +20,7 @@ const SearchBar = ({ search, onSearch ,text}: any) => {
                     value={search}
                     variant="subtle" 
                     onChange={onSearch}
-                    placeholder={text?placeholder:'Search  Safaris'} />
+                    placeholder={text?placeholder:'Search  Spot'} />
             </InputGroup>
 
         </Flex>
