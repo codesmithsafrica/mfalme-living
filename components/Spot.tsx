@@ -25,7 +25,7 @@ import { BiLeftArrowAlt, BiRightArrowAlt } from 'react-icons/bi'
 import { useColorModeValue } from './ui/color-mode'
 import Slider from 'react-slick'
 interface Props {
-  name?: string, description?: string, badge?: string, img:[Props_] , loading: boolean;
+  name?: string, description?: string, badge?: string, img:any , loading: boolean;
 };
 type Props_ ={
    image?: string,

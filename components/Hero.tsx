@@ -44,23 +44,23 @@ export default function CaptionCarousel() {
   // This can be static or loaded from a server
   const cards = [
     {
-      title: 'Memorable Safaris ',
-      text: "Let us make your memories unfogettable",
+      title: '3BR',
+      text: "Bamburi",
       image:
-         '7.jpg'
+         '1/1.jpg'
         
     },
     {
-      title: 'Hidden Gems',
-      text: "Hidden but conspicuous spots  just for you",
+      title: '3BR',
+      text: "Bamburi",
       image:
-        '6.jpg',
+        '2/1.jpg',
     },
     {
-      title: 'City/Coastal Cultural Tours',
-      text: "Directly connect with coastal cultural tours",
+      title: '3BR',
+      text: "Bamburi",
       image:
-        '5.jpg',
+        '3/1.jpg',
     },
   ]
 
