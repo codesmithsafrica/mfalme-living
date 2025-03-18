@@ -15,7 +15,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Mfalme Living",
+  title: "Bahari Tours & Travel",
   description: "One stop site for airbnbs",
 };
 

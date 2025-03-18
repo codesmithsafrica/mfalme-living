@@ -205,8 +205,6 @@ export default function Spot({ name, description, badge, img, loading }: Props) 
             <SkeletonText noOfLines={3} />
           </Stack>)}
 
-
-
           <Stack
             mt={4}
             //@ts-expect-error:type fix
@@ -214,7 +212,7 @@ export default function Spot({ name, description, badge, img, loading }: Props) 
             <Button
               as={'a'}
               //@ts-expect-error:type fix
-              href="tel:+254 759622023"
+              href="tel:+254 68168686"
             
               rounded={'full'}
               size={'lg'}

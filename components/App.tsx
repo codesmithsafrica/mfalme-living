@@ -70,7 +70,7 @@ const App = ({ children }: Iprops) => {
               textAlign={useBreakpointValue({ base: 'center', md: 'center' })}
               fontFamily={'heading'}
               color={useColorModeValue('gray.800', 'white')}>
-              Mfalme Living
+              Bahari Tours & Homes
             </Text>
                 {/* <Image h={35}  src={'logo.jpeg'} alt={'logo'} /> */}
                 
@@ -116,7 +116,7 @@ const App = ({ children }: Iprops) => {
 
   
             <Image h={35} w={35} src={'logo.png'} alt={'logo'} />
-        <Text>© 2025 Mfalme Living . All rights reserved</Text>
+        <Text>© 2025 Bahari Tours & Homes . All rights reserved</Text>
         <Stack direction={'row'} 
          //@ts-expect-error:type fix
         spacing={6}>

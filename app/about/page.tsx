@@ -56,7 +56,7 @@ export default function Home() {
           </Text>
           {/* <Heading> tour and travel company</Heading> */}
           <Text color={'gray.500'} fontSize={'lg'}>
-          Mfalme Living  is a airbnb company based in Mtwapa, Kilifi County, coastal Kenya.  Our slogan, "Your Experience, Our Passion," reflects our commitment to providing exceptional travel experiences throughout coastal Kenya and East Africa. We offer a comprehensive range of services, including safaris, city tours, exploration of hidden gems, bookings, transportation, and tailored travel packages
+          Bahari Tours & Homes is a premier travel and hospitality company located in Diani, Kenya. Specializing in personalized tours, safari experiences, and luxurious Airbnb accommodations, we offer an exceptional range of services tailored to every traveler’s needs. Whether you’re exploring the stunning coastal beauty of Diani, embarking on thrilling safaris, or enjoying a relaxing stay in one of our well-appointed homes, Bahari Tours & Homes ensures a memorable, stress-free experience. Our team of local experts is committed to providing top-notch service, ensuring your stay in Diani is both unforgettable and full of adventure.
           </Text>
     
         </Stack>
